@@ -335,7 +335,7 @@ i:hover{
     width: 100%;
     border: 1px solid #5569dc;
     background: rgb(238, 240, 251);
-    background: linear-gradient(180deg, rgba(238, 240, 251, 1) 10%, rgba(255, 255, 255, 1) 39%, rgba(85, 105, 220, 1) 78%);
+    background: linear-gradient(180deg, rgba(238, 240, 251, 1) 10%, rgba(255, 255, 255, 1) 32%, rgba(85, 105, 220, 1) 68%);
     color: #fff;
 }
 
@@ -352,17 +352,6 @@ i:hover{
 .card-body h5 {
     font-weight: 700;
     font-size: 25px;
-}
-
-.hover {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 70%;
-    background: rgb(255, 255, 255);
-    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 3%, rgba(238, 240, 251, 1) 9%, rgba(85, 105, 220, 1) 35%);
-    opacity: 0;
 }
 
 .card:hover .hover {
