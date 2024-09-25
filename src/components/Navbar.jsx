@@ -20,26 +20,6 @@ export default function Navbar() {
 
     return (
         <>
-            {/* <nav className="navbar navbar-light navbar-expand-lg nvabar-color ">
-                <div className="container-fluid">
-                    <a className="navbar-brand show" href="#hero">Rajat Sharma.</a>
-                    <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
-                        <span className="navbar-toggler-icon"></span>
-                    </button>
-                    <div className="offcanvas offcanvas-end text mt-0" tabIndex="-1" data-bs-scroll="false" data-bs-keyboard="false" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
-                        <div className="offcanvas-header">
-                            <a id="cross-btn">
-
-                                <button type="button" className="btn-close  btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-                            </a>
-                        </div>
-                        <div className="offcanvas-body">
-
-                        </div>
-                    </div>
-
-                </div>
-            </nav> */}
             <nav className="navbar navbar-light navbar-expand-lg nvabar-color">
                 <div className="container-fluid">
                     <a className="navbar-brand show" href="#hero">Rajat Sharma.</a>
