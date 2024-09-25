@@ -17,7 +17,6 @@ export default function Navbar() {
         sidebarClass = "sidebar"
     }
 
-
     return (
         <>
             <nav className="navbar navbar-light navbar-expand-lg nvabar-color">
