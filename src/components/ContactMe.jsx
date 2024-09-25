@@ -22,7 +22,7 @@ export default function ContactMe() {
 
                 </ContactColumn>
                 <ContactColumn>
-                    <div className="w-50 d-flex justify-content-between contact-icon " data-aos="zoom-in-right" data-a0s-duration="1000">
+                    <div className=" d-flex justify-content-between contact-icon " data-aos="zoom-in-right" data-a0s-duration="1000">
                         <Icons />
                     </div>
                 </ContactColumn>
