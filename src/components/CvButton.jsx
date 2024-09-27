@@ -1,5 +1,5 @@
 import React from 'react'
-import pdf from "/cv/RAJAT-SHARMA-RESUME-ADGITM.pdf"
+import pdf from "/cv/RAJAT_SHARMA-(RESUME).pdf"
 
 export default function CvButton({ cvCSS }) {
 

@@ -18,7 +18,7 @@ export default function ProjectContainer() {
                     date="Aug-2024"
                     body="A modern, responsive school website that showcases important information like programs, faculty, and contact details. It highlights the educational offerings and provides an interactive interface for users to navigate easily."
                     imgSrc={schoolSrc}
-                    teckStack={["HTML", "CSS", "JavaScript", "Ractjs", "Redux","React-router-dom"]}
+                    teckStack={["HTML", "CSS", "JavaScript", "Ractjs", "Redux","React-router-dom","Bootstrap"]}
                     liveURL="https://schooll-website.netlify.app/"
                 />
                 <ProjectCard
@@ -50,7 +50,7 @@ export default function ProjectContainer() {
                     date="June-2024"
                     body=" A well-designed landing page that focuses on showcasing product or service information. It features sections like services, testimonials, and calls-to-action, aimed at converting visitors into potential clients."
                     imgSrc={growthSrc}
-                    teckStack={["HTML", "CSS", "JavaScript"]}
+                    teckStack={["HTML", "CSS", "JavaScript","Bootstrap"]}
                     liveURL="https://splendid-kitsune-ba78d7.netlify.app/"
                 />
                 <ProjectCard
@@ -58,7 +58,7 @@ export default function ProjectContainer() {
                     date="July-2024"
                     body="A simple, intuitive app that allows users to create, edit, and delete notes. It offers a streamlined experience for organizing personal or professional information in a user-friendly environment."
                     imgSrc={notelSrc}
-                    teckStack={["HTML", "CSS", "JavaScript", "Ractjs", "Redux"]}
+                    teckStack={["HTML", "CSS", "JavaScript", "Ractjs", "Redux","Bootstrap"]}
                     liveURL="https://notes-website-app.netlify.app/"
                 />
             </div>
