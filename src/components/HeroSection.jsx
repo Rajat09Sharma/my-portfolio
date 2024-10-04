@@ -6,7 +6,7 @@ export default function HeroSection() {
     return (
         <section id="hero" className="">
             <div className="row">
-                <div className="col-lg-9">
+                <div className="col-md-8 col-lg-9">
                     <div className="image-container" data-aos="zoom-in-right" data-aos-duration="2000">
                         <div className="hero-title-container" data-aos="fade" data-aos-delay="2000"  >
                             <h4 data-aos="slide-right" data-aos-delay="">HELLO, I&apos;M</h4>
@@ -15,7 +15,7 @@ export default function HeroSection() {
                         </div>
                     </div>
                 </div>
-                <div className="col-lg-3 ">
+                <div className="col-md-4 col-lg-3 ">
                     <div className="profile-container" data-aos="fade-up" data-aos-duration="2000" data-aos-easing="ease-out">
                         <div className="profile-info">
                             <img src="https://www.icon0.com/free/static2/preview2/stock-photo-kid-boy-avatar-people-icon-character-cartoon-32922.jpg" className="avatr-image mb-4" alt="" />
